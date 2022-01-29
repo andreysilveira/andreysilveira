@@ -1,6 +1,6 @@
 <h2> 𝙷𝚒, 𝚠𝚎𝚕𝚌𝚘𝚖𝚎! 🤙🏻</h2>
 
-I'm Andrey, a Front-end developer at Mirum Agency.
+I'm Andrey, a Full Stack developer.
 
 - 📝 I'm a blockchain enthusiast.
 - 🌱 I’m currently learning Svelte.
