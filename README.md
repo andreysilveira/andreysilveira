@@ -1,4 +1,12 @@
-### Hi there 👋
+<h2> 𝙷𝚒, 𝚠𝚎𝚕𝚌𝚘𝚖𝚎! 🤙🏻</h2>
+
+I'm Andrey, a Front-end developer at Mirum Agency.
+
+- 📝 I'm a blockchain enthusiast.
+- 🌱 I’m currently learning Svelte.
+- 🚀 I’m currently working at [Mirum Agency](https://www.mirumagency.com.br/) as Front-end Developer.
+- 🏫 I'm a Computer Science student in PUC-PR (Pontifícia Universidade Católica do Paraná).
+- :email: Send me an [email](mailto:andreysilveir4@gmail.com) or a DM on [Twitter](https://twitter.com/yerdna_arievlis) if you want to contact me.
 
 <!--
 **andreysilveira/andreysilveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
