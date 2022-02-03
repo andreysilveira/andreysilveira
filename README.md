@@ -3,10 +3,10 @@
 I'm Andrey, a Full Stack developer.
 
 - 📝 I'm a blockchain enthusiast.
-- 🌱 I’m currently learning Svelte.
+- 🌱 I’m currently learning React.
 - 🚀 I’m currently working at [Mirum Agency](https://www.mirumagency.com.br/) as Front-end Developer.
 - 🏫 I'm a Computer Science student in PUC-PR (Pontifícia Universidade Católica do Paraná).
-- :email: Send me an [email](mailto:andreysilveir4@gmail.com) or a DM on [Twitter](https://twitter.com/yerdna_arievlis) if you want to contact me.
+- :email: Send me an [email](mailto:andreysilveir4@gmail.com) if you want to contact me.
 
 <!--
 **andreysilveira/andreysilveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
