@@ -3,7 +3,7 @@
 I'm Andrey, a Full Stack developer.
 
 - 📝 I'm a blockchain enthusiast.
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning Svelte.
 - 🚀 I’m currently working at [Mirum Agency](https://www.mirumagency.com.br/) as Front-end Developer.
 - 🏫 I'm a Computer Science student in PUC-PR (Pontifícia Universidade Católica do Paraná).
 - :email: Send me an [email](mailto:andreysilveir4@gmail.com) if you want to contact me.
